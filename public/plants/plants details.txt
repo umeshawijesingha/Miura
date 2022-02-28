@@ -1,0 +1,22 @@
+Cactus 
+C002 Golden Barrel - Rs.250
+C003 Prickly Pear - Rs.250
+C004 Feather Cactus - Rs.250
+C005 Fairy Castle - Rs.250
+C006 Moon Cactus - Rs.250
+C007 Trimble Cactus - Rs.250
+C008 Chin Cactus - Rs.250
+C009 Saguaro Cactus - Rs.250
+C010 Easter Cactus - Rs.250
+C011 Christmas Cactus - Rs.250
+C012 Totem Pole - Rs.250
+
+Succulents
+S001 Black Prince - Rs.200
+S002 Debbie - Rs.200
+S003 Topsy Turvy - Rs.200 
+S004 Aeonium Black Rose - Rs.200
+S005 Dusty Rose - Rs.200
+S006 Bear's Paw - Rs.200
+S007 Camp Fire - Rs.200
+                    
