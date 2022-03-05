@@ -1,0 +1,41 @@
+Cement pots 
+CP001 - Rs.90 100% quality white cement polimorphism pots Height 4.7cm width 5.4cm Weight 110g
+CP002 - Rs.90 100% quality white cement round pots Height 4.7cm width 5.4cm Weight 110g
+CP003 - Rs.100 100% quality white cement pentateus pots Height 4.3cm width 6.5cm Weight 95g
+CP004 - Rs.80 100% quality white cement square pots Height 3.6cm width 5cm Weight 60g
+CP005 - Rs.95 100% quality white cement hexagon pots Height 3.2cm width 6.5cm Weight 85g
+CP006 - Rs.100 100% quality white flower shaped cement pots Height 4.7cm width 6.5cm Weight 100g
+CP007 - Rs.100 100% quality white cement ovel pots Height 3.3cm width 10cm Weight 100g
+CP008 - Rs.120 100% quality white cement heart pots Height 3.4cm width 6.5cm Weight 100g
+CP009 - Rs.70 100% quality white cement mini pots Height 3.2cm width 5.4cm Weight 65g
+
+Wood pots
+WP001 - Rs.900 High quality finished long wood pots 45*12*10cm Weight 1kg
+WP002 - Rs.360 High quality finished square raw wood pots 12*12*10cm Weight 600-700g
+WP003 - Rs.360 High quality finished square wood pots 12*12*10cm Weight 500g
+WP004 - Rs.900 High quality finished long raw wood pots 45*12*10cm Weight 1.5kg
+WP005 - Rs.300 High quality finished wood pots Height 6.3cm width 10cm Weight 450g
+WP006 - Rs.300 High quality finished wood pots Height 6.3cm width 10cm Weight 450g
+WP007 - Rs.300 High quality finished wood pots Height 6.3cm width 10cm Weight 450g
+WP008 - Rs.300 High quality finished wood pots Height 6.3cm width 10cm Weight 450g
+WP009 - Rs.300 High quality finished wood pots Height 6.3cm width 10cm Weight 450g
+WP010 - Rs.300 High quality finished wood pots Height 6.3cm width 10cm Weight 450g
+
+ceremic pots
+CE001 - Rs.1500 Smoothy finished flower shape ceremic pots Height 7inc width 6inc
+CE002 - Rs.600 Smoothy finished cat paw ceremic pots Height 4.2inc width 3.5inc
+CE003 - Rs.650 Smoothy finished bottle shape ceremic pots Height 4.2inc width 3.5inc
+CE004 - Rs.1100 Smoothy finished rabbit paw ceremic pots Height 6inc width 4inc
+CE005 - Rs.600 Smoothy finished four pettles ceremic pots Height 4.2inc width 3.5inc
+
+clay pots
+CL001 - Rs.150 Highly finished round clay pots Height 7cm width 8.5cm
+CL002 - Rs.150 Highly finished square clay pots Height 6.5cm width 7.5cm
+CL003 - Rs.150 Highly finished heart clay pots Height 7cm width 8cm
+CL004 - Rs.190 Highly finished round clay pots Height 9cm width 9.5cm
+CL005 - Rs.150 Highly finished cilinder clay pots Height 6.5cm width 7cm
+CL006 - Rs.150 Highly finished clay pots Height 5.5cm width 6.5cm
+CL007 - Rs.150 Highly finished clay pots Height 6cm width 7cm
+CL008 - Rs.250 Highly finished long ovel clay pots Height 6cm width 16.5cm
+CL009 - Rs.200 Highly finished round ball clay pots Height 6cm width 12cm
+CL010 - Rs.150 Highly finished round and square clay pots Height 3cm width 7.5cm
